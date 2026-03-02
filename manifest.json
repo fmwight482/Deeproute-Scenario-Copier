@@ -5,7 +5,7 @@
     "content_scripts": [
         {
             "matches": [
-                "http://deeproute.com/*?js=nplaybook*"
+                "https://deeproute.com/*?js=nplaybook*"
             ],
             "js": [
                 "jquery-3.4.1.min.js",
